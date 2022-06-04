@@ -1,0 +1,35 @@
+C:\Users\Dell\Desktop\Python\array.py
+C:\Users\Dell\Desktop\Python\add3.py.bak
+C:\Users\Dell\Desktop\Python\welcom.py
+C:\Users\Dell\Desktop\Python\Python Assignment 2\arithmetic.py.bak
+C:\Users\Dell\Desktop\Python\infosystem.py.txt
+C:\Users\Dell\Desktop\Python\15jan\New Text Document.txt
+C:\Users\Dell\Desktop\Python\23jan\hello
+C:\Users\Dell\Desktop\Python\9jan\d.py.txt
+C:\Users\Dell\Desktop\Python\9jan\p.py
+C:\Users\Dell\Desktop\Python\ass\fun5.py
+C:\Users\Dell\Desktop\Python\ass\fun6.py
+C:\Users\Dell\Desktop\Python\jan\oops.py
+C:\Users\Dell\Desktop\Python\jan\oops.txt
+C:\Users\Dell\Desktop\Python\jan\p.py
+C:\Users\Dell\Desktop\Python\jan\pro.py
+C:\Users\Dell\Desktop\Python\jan\scripting.py
+C:\Users\Dell\Desktop\Python\22jan\.idea\.gitignore
+C:\Users\Dell\Desktop\Python\23jan\.idea\.gitignore
+C:\Users\Dell\Desktop\Python\8jan\.idea\.gitignore
+C:\Users\Dell\Desktop\Python\script\.idea\.gitignore
+C:\Users\Dell\Desktop\Python\22jan\.idea\22jan.iml
+C:\Users\Dell\Desktop\Python\23jan\.idea\23jan.iml
+C:\Users\Dell\Desktop\Python\8jan\.idea\8jan.iml
+C:\Users\Dell\Desktop\Python\script\.idea\script.iml
+C:\Users\Dell\Desktop\Python\22jan\.idea\inspectionProfiles\profiles_settings.xml
+C:\Users\Dell\Desktop\Python\23jan\.idea\inspectionProfiles\profiles_settings.xml
+C:\Users\Dell\Desktop\Python\8jan\.idea\inspectionProfiles\profiles_settings.xml
+C:\Users\Dell\Desktop\Python\script\.idea\inspectionProfiles\profiles_settings.xml
+C:\Users\Dell\Desktop\Python\23jan\main.py
+C:\Users\Dell\Desktop\Python\2jan\oop8.py
+C:\Users\Dell\Desktop\Python\ass7\ass1.py
+C:\Users\Dell\Desktop\Python\dec25\set.py.py.bak
+C:\Users\Dell\Desktop\Python\jan\oop.py.bak
+C:\Users\Dell\Desktop\Python\jan\oop3.py
+C:\Users\Dell\Desktop\Python\Python Assignment 2\Assignment2_7.py.py
